@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@algorandfoundation/algokit-utils": "^9.1.1",
-    "algosdk": "^3.2.0"
+    "algosdk": "^3.5.2"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.26.9",
